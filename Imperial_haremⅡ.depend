@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1493446821 source:l:\cd_programme\imperial_harem¢ò\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
